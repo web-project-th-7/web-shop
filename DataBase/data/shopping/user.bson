@@ -1,0 +1,7 @@
+{
+    "_id" : ObjectId("596c5308b2e0ad39eb1fea49"),
+    "fullname" : "Le Van Uy",
+    "img" : "levanuy.png",
+    "email" : "levanuy98@gmail.com",
+    "password" : "$2y$12$xSIogYpJ9dbMjcEUJ.vRFeM7SurnmFEWziT7Sdy4ZDFq9hkzUXqya"
+}
